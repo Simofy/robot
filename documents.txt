@@ -1,0 +1,3 @@
+https://medium.com/@machadogj/arduino-and-node-js-via-serial-port-bcf9691fab6a
+https://www.instructables.com/id/Arduino-Python-Communication-via-USB/
+http://inmoov.fr/default-hardware-map/
